@@ -1,5 +1,5 @@
 # csv2emailPHP
-Send emails from a csv
+Send smtp.office365.com emails from a csv
 
 USAGE : php csv2email.php FILENAME
 
@@ -10,3 +10,4 @@ hadrien.blanc@epitech.eu,"Bonjour !"
 hadrien.blanc@epitech.eu,"Encore bonjour !"
 ```
 
+configuration : check config.php
